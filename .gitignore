@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Sensitive data
+.env
+
+# IDE settings
+.vscode/
+
+# Database files
+*.db
