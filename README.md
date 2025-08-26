@@ -13,13 +13,13 @@ This project is a Python-based test automation framework for the Alpha Vantage f
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-link>
-    cd deshaw_sdet_project
+    git clone https://github.com/arup5biswas/Financial-API-Test-Automation-Framework.git
+    cd Financial-API-Test-Automation-Framework
     ```
 2.  **Create a virtual environment:**
     ```bash
     python -m venv venv
-    source venv/bin/activate # On Windows, use `venv\Scripts\activate`
+    source venv/bin/activate # On Windows, use venv\Scripts\activate
     ```
 3.  **Install dependencies:**
     ```bash
